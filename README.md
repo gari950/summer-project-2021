@@ -1,4 +1,4 @@
-# summer-project-2021
+# stock market prediction and analysis web app using python
 
 Abstract:
 
