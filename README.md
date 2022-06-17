@@ -7,7 +7,7 @@ Predicting how the stock market will perform is one of the most difficult things
 Keywords:
 
 
-![](https://img.shields.io/badge/LSTM-Long short-term memory-informational?style=flat&logo=<#FF6F00>&logoColor=orange&color=2bbc8a)
+![](https:// img.simpleicons.org/badge/LSTM-Long short-term memory-informational?style=flat&logo=<#FF6F00>&logoColor=orange&color=2bbc8a)
 
 Long short-term memory (LSTM), recurrent neural network (RNN), root mean square error (RMSE), Streamlit, prediction, stock prices, dataset
 
