@@ -6,7 +6,7 @@ Predicting how the stock market will perform is one of the most difficult things
 
 Keywords:
 
-https://img.shields.io/badge/LSTM-Long Short Term Memory-orange recurrent neural network (RNN), root mean square error (RMSE), Streamlit, prediction, stock prices, dataset
+![](https://img.shields.io/static/v1?label=LSTM&message=long-short-term-memory&color=orange) ![](https://img.shields.io/static/v1?label=RNN&message=recurrent-neural-network&color=orange) ![](https://img.shields.io/static/v1?label=RMSE&message=root-mean-square-error&color=orange) ![](https://img.shields.io/static/v1?label=Lib&message=Streamlit&color=orange) ![](https://img.shields.io/static/v1?label=Py&message=prediction_stock-prices_dataset&color=orange)
 
 Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) architecture used in the field of deep learning. Unlike standard feed forward neural networks, LSTM has feedback connections. It can not only process single data points (such as images), but also entire sequences of data (such as speech or video).
 
